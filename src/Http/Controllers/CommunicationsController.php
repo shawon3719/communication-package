@@ -1,12 +1,12 @@
 <?php
 
-namespace Shawon\Communication\Http\Controllers;
+namespace shawon3719\Communication\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Shawon\Communication\Mail\CommunicationMailable;
-use Shawon\Communication\Models\Communication;
+use shawon3719\Communication\Mail\CommunicationMailable;
+use shawon3719\Communication\Models\Communication;
 
 class CommunicationsController extends Controller
 {

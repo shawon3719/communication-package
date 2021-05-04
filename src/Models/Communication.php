@@ -1,6 +1,6 @@
 <?php
 
-namespace Shawon\Communication\Models;
+namespace shawon3719\Communication\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

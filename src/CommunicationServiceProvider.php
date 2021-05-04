@@ -1,5 +1,5 @@
 <?php
-namespace Shawon\Communication;
+namespace shawon3719\Communication;
 
 use Illuminate\Support\ServiceProvider;
 

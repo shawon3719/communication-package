@@ -1,9 +1,8 @@
 <?php
 
-namespace Shawon\Communication\Mail;
+namespace shawon3719\Communication\Mail;
 
 use Illuminate\Bus\Queueable;
-use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 
